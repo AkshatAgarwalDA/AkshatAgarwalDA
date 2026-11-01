@@ -31,7 +31,13 @@ I turn business data into clear insights, reliable reporting, and practical deci
 
 ## Portfolio Projects
 
-This profile showcases practical work across SQL analysis, BI dashboards, financial analytics, and reporting automation. Each project repository will include its objective, data description, methodology, code, and key findings where applicable.
+### Featured Portfolio Projects
+
+- [SIP & Mutual Fund Analytics — Step-up Planning Model](projects/sip-mutual-fund-analytics/README.md): Python SIP projections, target-corpus planning, synthetic data, MySQL analysis, and unit tests. **[Open project](https://github.com/AkshatAgarwalDA/AkshatAgarwalDA/tree/main/projects/sip-mutual-fund-analytics)**
+- Sales Insights Dashboard — planned next.
+- Website Traffic & User Behaviour Analysis — planned next.
+
+Projects use public or synthetic data unless explicitly stated. Recreated portfolio results are kept separate from historical CV claims.
 
 ## Currently
 
